@@ -1,0 +1,2 @@
+class EfficientNet:
+    pass
